@@ -4,3 +4,6 @@ The Shell Load powder measure packs unparalleled powder-measuring accuracy in a 
 
 Precision Accuracy
 The hopper holds amount of smokeless powder for about 200 - 300 rounds, and can dispense anywhere between 0-1000 grains with a +/-0.05 grain accuracy.
+
+LCD Display
+This one-piece unit features an LCD display that ensures accurate data input.
