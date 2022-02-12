@@ -50,5 +50,8 @@ Dashboard:
 
 What is needed:
 
+There are two options:
 
+1. You made 3D prints and you just need to:
+2. We can make for you everything - This option will be added in the future.
 
