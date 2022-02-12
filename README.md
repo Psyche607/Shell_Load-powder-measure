@@ -48,3 +48,7 @@ Dashboard:
 	- Dosing process took too long and give an error of Timeout.
 
 
+What is needed:
+
+
+
