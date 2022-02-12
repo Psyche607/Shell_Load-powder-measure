@@ -33,7 +33,8 @@ Menu that allows user to set the following functions parameters:
 8. Set the tolerance value that is acceptable by user / Maximum weighted dosage deviation,
 9. Set timout for dosing,
 10. Set compensation value,
-11. Reset to defaults.
+11. Reset to defaults,
+12. Ability to upgrade firmware.
 
 Dashboard:
 
