@@ -61,16 +61,16 @@ You have to print on 3d Printers in two technologies SLA / FDM or just on SLA Pr
 Firstly Print 3 main components:
 
 1. On SLA/FDM Printer with the highest possible tolerance
-- BASE,
-- COMPUTER CASE,
-- SCALE
+	- BASE,
+	- COMPUTER CASE,
+	- SCALE
 
 2. ONLY on SLA PRINTER !!! (Don't Print on FDM printer this can generate and accumulate electrostatic charges, leading to ignition of gunpowder.)
-- FUNNEL,
-- MOTOR GEAR,
-- PAN,
-- POWDER TUBE,
-- SNAIL.
+	- FUNNEL,
+	- MOTOR GEAR,
+	- PAN,
+	- POWDER TUBE,
+	- SNAIL.
 
 
 
