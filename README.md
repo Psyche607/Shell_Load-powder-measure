@@ -55,6 +55,26 @@ What is needed:
 
 There are two options:
 
-1. You made 3D prints and you just need to:
-2. We can make for you everything - This option will be added in the future.
+A)
+You have to print on 3d Printers in two technologies SLA / FDM or just on SLA Printer:
+
+Firstly Print 3 main components:
+
+1. On SLA/FDM Printer with the highest possible tolerance
+	a) BASE,
+	b) COMPUTER CASE,
+	c) SCALE
+
+2. ONLY on SLA PRINTER !!! (Don't Print on FDM printer this can generate and accumulate electrostatic charges, leading to ignition of gunpowder.)
+	a) FUNNEL,
+	b) MOTOR GEAR,
+	c) PAN,
+	d) POWDER TUBE,
+	e) SNAIL.
+
+
+
+
+
+B. We can make for you everything - This option will be added in the future.
 
