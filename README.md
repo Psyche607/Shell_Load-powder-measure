@@ -72,7 +72,35 @@ Firstly Print 3 main components:
 	- POWDER TUBE,
 	- SNAIL.
 
+3. Electronic / Firmware
 
+The main computer unit is using Arduino with specially dedicated hat, with all connectors that you need and uploaded firmware. This part we will do for you in exchange for a small support that is neede to further develop this project.
+
+If you think this project is great and you want to support us, give us oportunity for further developemnt.
+Click on the button "sponsor this project" - on the right side of this page
+
+You can support this project with any amount, but if you pay the amount:
+
+- 87€, we will make a hardware computer unit for you and upload the newest firmware and send to address that you need:
+
+For location:
+
+- Poland we send the package for 6€ by "Paczkomat",
+- For USA you have to send us 35€ more, to allow us, to send the package to you.
+- Other Countries send to us question about your location and we try to find the cheapest solution to send the item to you.
+
+- Any amount below the given values will always be a great support for us and we will be very grateful for it that you decided to support the development of our project, but it will not make it possible to make and deliver of a computer with software or any other element from this project.
+
+Thank you for all your support !!! 
+
+The rest of electronic / mechanicall items that will be needed:
+
+- 1x Loadcell 100g for normal accuracy / or Loadcell 50g for for very accurate measurements,
+- 1x HX711 Modul that will be connected to "Loadcell" 50g/100g,
+- 1x LCD Display 1602 with I2C Interface,
+- 1x 5 Buttons AD Key Pad,
+- 1x Power Supply min 12V 1A with Plug 5,2x2,1,
+- 1x calibration weight (5g / 10g / 20g it is relevent what you choose, everything will work),
 
 
 
