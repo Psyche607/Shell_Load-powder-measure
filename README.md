@@ -100,8 +100,16 @@ The rest of electronic / mechanicall items that will be needed:
 - 1x LCD Display 1602 with I2C Interface,
 - 1x 5 Buttons AD Key Pad,
 - 1x Power Supply min 12V 1A with Plug 5,2x2,1,
+- 1x NEMA17 Stepper Motor,
 - 1x calibration weight (5g / 10g / 20g it is relevent what you choose, everything will work),
 
+SCREWS:
+
+- 19x M3x06	/ For main computer TOP and all internalss (LCD, KEBOARD, MAINBOARD), Scale TOP.
+- 2x  M3x16	/ For Loadcell mount,
+- 2x  M3x25	/ For mounting Boul to Loadcell
+- 4x  M3x8	/ Bottom of te computer unit
+- 4x  M3x12	/ NEMA17 MOUNT
 
 
 B. We can make for you everything - This option will be added in the future.
