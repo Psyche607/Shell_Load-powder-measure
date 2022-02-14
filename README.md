@@ -1,6 +1,6 @@
 # Shell_Load-powder-measure
 
-The Shell Load powder measure packs unparalleled powder-measuring accuracy in a compact package. The CShell Load is an effective, accurate powder-measuring tool. The accuracy is between 0,02 gn - 0,05 gn with fast dosage under 5s per dosage.
+The Shell Load powder measure packs unparalleled powder-measuring accuracy in a compact package. The Shell Load is an effective, accurate powder-measuring tool. The accuracy is between 0,02 gn - 0,05 gn with fast dosage under 5s per dosage.
 
 <img width="743" alt="Zrzut ekranu 2022-02-12 o 12 56 21" src="https://user-images.githubusercontent.com/99535681/153711311-cbba8a5c-9140-4083-9c4c-7bd0480c446c.png">
 
