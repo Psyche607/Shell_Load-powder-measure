@@ -105,11 +105,11 @@ The rest of electronic / mechanicall items that will be needed:
 
 SCREWS:
 
-- 19x M3x06		&emsp;/ For main computer TOP and all internalss (LCD, KEBOARD, MAINBOARD), Scale TOP.
-- 2x  M3x16		&emsp;/ For Loadcell mount,
-- 2x  M3x25		&emsp;/ For mounting Boul to Loadcell,
-- 4x  M3x8		&emsp;/ Bottom of te computer unit,
-- 4x  M3x12		&emsp;/ NEMA17 MOUNT,
+- 19x M3x06		&emsp;&emsp;&emsp;/ For main computer TOP and all internalss (LCD, KEBOARD, MAINBOARD), Scale TOP.
+- 2x  M3x16		&emsp;&emsp;&emsp;/ For Loadcell mount,
+- 2x  M3x25		&emsp;&emsp;&emsp;/ For mounting Boul to Loadcell,
+- 4x  M3x8		&emsp;&emsp;&emsp;/ Bottom of te computer unit,
+- 4x  M3x12		&emsp;&emsp;&emsp;/ NEMA17 MOUNT,
 - 1x  M3 screw tap
 
 
