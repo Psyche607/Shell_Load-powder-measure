@@ -113,5 +113,11 @@ SCREWS:
 - 1x  M3 screw tap
 
 
+Logic diagram of cable connections:
+
+<img width="800" alt="Zrzut ekranu 2022-02-17 o 15 36 26" src="https://user-images.githubusercontent.com/99535681/154504167-fdf9b303-08cd-45f3-ab63-6049bd9bd834.png">
+
+
+
 B. We can make for you everything - This option will be added in the future.
 
