@@ -47,6 +47,7 @@ Dashboard:
 	- Dosing process Finished but weight is Overdosed,
 	- Dosing process took too long and give an error of Timeout.
 
+<img width="1126" alt="SHELL LOAD v  2 0" src="https://user-images.githubusercontent.com/99535681/154578268-9f2c688a-68fb-4fec-993a-3c0b0a0084ad.png">
 
 [SHELL LOAD v. 2.0.pdf](https://github.com/Psyche607/Shell_Load-powder-measure/files/8092501/SHELL.LOAD.v.2.0.pdf)
 
