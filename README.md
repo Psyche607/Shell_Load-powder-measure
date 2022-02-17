@@ -48,6 +48,7 @@ Dashboard:
 	- Dosing process took too long and give an error of Timeout.
 
 
+[SHELL LOAD v. 2.0.pdf](https://github.com/Psyche607/Shell_Load-powder-measure/files/8092501/SHELL.LOAD.v.2.0.pdf)
 
 
 
