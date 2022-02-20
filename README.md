@@ -121,12 +121,10 @@ Logic diagram of cable connections:
 <img width="800" alt="Zrzut ekranu 2022-02-17 o 15 36 26" src="https://user-images.githubusercontent.com/99535681/154504167-fdf9b303-08cd-45f3-ab63-6049bd9bd834.png">
 
 Below Accuracy proof of the Shell Load v2.0 
-
-<iframe width="560" height="315"
-src="https://youtu.be/FIMm3iuClW4" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+ 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=FIMm3iuClW4"><img src="https://img.youtube.com/vi/FIMm3iuClW4/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
 
 Below calculation of measures as a statistics:
 
