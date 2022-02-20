@@ -122,6 +122,16 @@ Logic diagram of cable connections:
 
 Below Accuracy proof of the Shell Load v2.0 
 
+<iframe width="560" height="315"
+src="https://youtu.be/FIMm3iuClW4" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+Below calculation of measures as a statistics:
+
+<img width="499" alt="Zrzut ekranu 2022-02-20 o 13 00 43" src="https://user-images.githubusercontent.com/99535681/154841448-814493c2-76d0-4423-9657-0530d47b77f6.png">
+
 
 B. We can make for you everything - This option will be added in the future.
 
