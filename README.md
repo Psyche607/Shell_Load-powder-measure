@@ -122,7 +122,7 @@ Logic diagram of cable connections:
 
 Below Accuracy proof of the Shell Load v2.0 
  
-<div align="center">
+<div align="left">
   <a href="https://www.youtube.com/watch?v=FIMm3iuClW4"><img src="https://img.youtube.com/vi/FIMm3iuClW4/0.jpg" alt="IMAGE ALT TEXT"></a>
 </div>
 
