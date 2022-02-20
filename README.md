@@ -84,7 +84,7 @@ Click on the button "sponsor this project" - on the right side of this page
 
 You can support this project with any amount, but if you pay the amount:
 
-- 87€, we will make a hardware computer unit for you and upload the newest firmware and send to address that you need:
+- 87€, we will make a hardware computer unit for you, and upload the newest firmware, next we send it in 3 weeks to address that you need:
 
 For location:
 
