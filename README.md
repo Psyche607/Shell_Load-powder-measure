@@ -56,8 +56,6 @@ Dashboard:
 
 What is needed:
 
-There are two options:
-
 A)
 You have to print on 3d Printers in two technologies SLA / FDM or just on SLA Printer:
 
@@ -77,7 +75,7 @@ Firstly Print 3 main components:
 
 3. Electronic / Firmware
 
-The main computer unit is using Arduino with specially dedicated hat, with all connectors that you need and uploaded firmware. This part we will do for you in exchange for a small support that is neede to further develop this project.
+The main computer unit is using Arduino with specially dedicated hat, with all connectors that you need and uploaded firmware. 
 
 The rest of electronic / mechanicall items that will be needed:
 
