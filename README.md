@@ -96,7 +96,12 @@ Electronic Parts for Shield:
 - 1x Power Supply min 12V 1A with Plug 5,2x2,1
 - 1x calibration weight (5g / 10g / 20g it is relevent what you choose, everything will work),
 
+4. Make a SHIELD for Arduino
 THE SHIELD: https://aisler.net/p/MCQLSMDE
+
+5. Upload the firmware from this site.
+
+6. Screw everything :)
 
 SCREWS:
 
@@ -124,6 +129,7 @@ Below calculation of measures as a statistics:
 
 <img width="499" alt="Zrzut ekranu 2022-02-20 o 13 00 43" src="https://user-images.githubusercontent.com/99535681/154841448-814493c2-76d0-4423-9657-0530d47b77f6.png">
 
+7. Have a lot of fun with it :)
 
 If you think this project is great and you want to support us, give us oportunity for further developemnt.
 Click on the button "sponsor this project" - on the right side of this page
