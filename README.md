@@ -117,6 +117,12 @@ Logic diagram of cable connections:
 
 <img width="800" alt="Zrzut ekranu 2022-02-17 o 15 36 26" src="https://user-images.githubusercontent.com/99535681/154504167-fdf9b303-08cd-45f3-ab63-6049bd9bd834.png">
 
+![20220310_203749](https://user-images.githubusercontent.com/99535681/157742108-a0ace5a4-bd58-4ca7-862a-3fed0c2d9859.jpeg)
+
+![20220310_203757](https://user-images.githubusercontent.com/99535681/157742162-5a0005f7-9be8-4ddc-852c-20cc1653f673.jpeg)
+
+
+
 Below Accuracy proof of the Shell Load v2.0 - Click it to watch.
  
 <div align="left">
