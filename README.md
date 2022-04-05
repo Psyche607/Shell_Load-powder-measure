@@ -87,7 +87,7 @@ Electronic Parts for Shield:
 - 1x LCD Display 1602 with I2C Interface
 - 1x 5 Buttons AD Key Pad
 - 1x Buzzer (active high)
-- 1x step-down DC Mini360 LM2596
+- 1x step-down DC Mini360 LM2596	(SHOULD BE SET EXACTLY TO CONVERT 12v->5v)
 - 1x DRV8825
 - 1x NEMA17 Stepper Motor
 - 1x Capacitor 100uF min 12V
